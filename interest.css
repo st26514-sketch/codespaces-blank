@@ -1,0 +1,18 @@
+*
+h1 {
+    color:darkred;
+}
+
+nav {
+      text-align: center;
+    background: pink;
+}
+
+body {
+  background-image: linear-gradient(to right, lightblue, lightcoral); 
+}
+
+.gallery img {
+  width: 300px;
+  height: 200px;
+}
