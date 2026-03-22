@@ -48,7 +48,6 @@ header h1 {
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
 }
 
 
@@ -59,9 +58,7 @@ nav ul li {
 nav ul li a {
     color: white;
     padding: 15px 0;
-    display: block;
-    transition: 0.5s;
-    text-align: center;
+
 }
 
 nav:hover {
@@ -100,4 +97,5 @@ body {
     width: 300px;
     height: 200px;
 }
+
 
