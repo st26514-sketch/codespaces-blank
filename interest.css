@@ -3,8 +3,12 @@ h1 {
     color:darkred;
 }
 
+h2 {
+    color: darkred;
+}
+
 nav {
-      text-align: center;
+    text-align: center;
     background: pink;
 }
 

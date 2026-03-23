@@ -8,11 +8,11 @@ nav {
     background: pink;
 }
 
-body {
-  background-image: url('../PHbackground.'); 
-}
-
 .gallery img {
   width: 300px;
   height: 200px;
+}
+
+.grid_container {
+  background-image: url('../codespaces-blank/imagebg/PHbackground.jpg'); 
 }
