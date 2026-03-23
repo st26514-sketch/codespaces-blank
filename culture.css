@@ -4,12 +4,12 @@ h1 {
 }
 
 nav {
-      text-align: center;
+    text-align: center;
     background: pink;
 }
 
 body {
-  background-image: linear-gradient(to right, lightblue, lightcoral); 
+  background-image: url('../PHbackground.'); 
 }
 
 .gallery img {
