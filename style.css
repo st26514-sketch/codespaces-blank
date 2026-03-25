@@ -99,4 +99,8 @@ body {
     height: 200px;
 }
 
+.horizontal-list {
+    display:flex;
+    justify-content: space-around;
+}
 
