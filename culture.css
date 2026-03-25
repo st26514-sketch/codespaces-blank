@@ -3,6 +3,10 @@ h1 {
     color:darkred;
 }
 
+body{
+    background-image: url('../imagebg/PHbg.jpg'); 
+}
+
 nav {
     text-align: center;
     background: pink;
@@ -13,6 +17,5 @@ nav {
   height: 200px;
 }
 
-.grid_container {
-  background-image: url('../codespaces-blank/imagebg/PHbackground.jpg'); 
-}
+
+ 
