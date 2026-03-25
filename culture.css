@@ -3,6 +3,10 @@ h1 {
     color:darkred;
 }
 
+h2 {
+   background-color: lightblue;
+}
+
 body{
     background-image: url('../imagebg/PHbg.jpg'); 
     background-size: 100vw 100vh;
